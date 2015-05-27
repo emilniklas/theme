@@ -1,1 +1,1 @@
-# Arstotzka by [Dayle Rees](//github.com/daylerees)
+# Tonic by [Dayle Rees](//github.com/daylerees)
